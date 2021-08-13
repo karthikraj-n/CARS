@@ -117,8 +117,8 @@
         "settings": {
           "title": "Featured collection",
           "collection": "frontpage",
-          "grid": 3,
-          "rows": 1,
+          "grid": 4,
+          "rows": 2,
           "show_vendor": false,
           "show_view_all": true
         }
@@ -157,27 +157,6 @@
           "show_pin": true,
           "api_key": "",
           "background_image_position": "center center"
-        }
-      },
-      "1492033924902": {
-        "type": "custom-content",
-        "blocks": {
-          "1492033924902-0": {
-            "type": "text",
-            "settings": {
-              "title": "Talk about your brand",
-              "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
-              "width": "100%",
-              "alignment": "center",
-              "align_text": "center"
-            }
-          }
-        },
-        "block_order": [
-          "1492033924902-0"
-        ],
-        "settings": {
-          "title": ""
         }
       },
       "1492096252560": {
@@ -303,7 +282,6 @@
       "hero",
       "featured-collections",
       "slideshow",
-      "1492033924902",
       "1628854095ec41df07",
       "16288541384da038d4",
       "1492096252560",
