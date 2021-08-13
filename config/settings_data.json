@@ -276,6 +276,15 @@
           "enable_image_zoom": true,
           "enable_video_looping": false
         }
+      },
+      "16288749859b095db2": {
+        "type": "rich-text",
+        "settings": {
+          "full_width": false,
+          "section_title": "Feature Products",
+          "text": "",
+          "text_size": "medium"
+        }
       }
     },
     "content_for_index": [
@@ -285,7 +294,8 @@
       "1628854095ec41df07",
       "16288541384da038d4",
       "1492096252560",
-      "1492033809691"
+      "1492033809691",
+      "16288749859b095db2"
     ]
   },
   "presets": {
