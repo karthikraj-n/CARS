@@ -8391,7 +8391,7 @@ theme.Product = (function() {
         .then(function(cart) {
           self._setCartQuantity(cart.item_count);
          // self._setCartCountBubble(cart.item_count);
-          self._showCartPopup();
+         // self._showCartPopup();
         })
         .catch(function(error) {
           // eslint-disable-next-line no-console
