@@ -8253,6 +8253,7 @@ theme.Product = (function() {
         body: theme.Helpers.serialize(form)
       })
         .then(function(response) {
+        console.log(response);
           return response.json();
         })
         .then(function(json) {
