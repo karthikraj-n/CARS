@@ -8390,7 +8390,7 @@ theme.Product = (function() {
         })
         .then(function(cart) {
           self._setCartQuantity(cart.item_count);
-          self._setCartCountBubble(cart.item_count);
+         // self._setCartCountBubble(cart.item_count);
           self._showCartPopup();
         })
         .catch(function(error) {
